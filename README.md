@@ -1,16 +1,41 @@
-# React + Vite
+# Pratiksha Kanodje — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my skills, projects, education, and journey as an aspiring Software Engineer.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am Pratiksha Kamalakar Kanodje, a third-year B.Sc. Computer Science student graduating in 2027. I am passionate about software development, problem-solving, and building practical applications.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-## Expanding the ESLint configuration
+## Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### RaktaSetu AI
+A web-based blood availability and donation platform featuring blood stock tracking and machine learning-based demand prediction.
+
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Python
+
+### AI-Powered Employee Task & Productivity System
+A project focused on task assignment, progress tracking, and productivity monitoring with AI/ML functionality.
+
+## Connect With Me
+
+- **GitHub:** https://github.com/pratikshakanadje636-ux
+- **LinkedIn:** https://www.linkedin.com/in/pratiksha-kanodje-1710b131a/
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+Made with ❤️ by Pratiksha Kanodje.
